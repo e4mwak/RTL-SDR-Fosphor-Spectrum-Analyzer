@@ -2,7 +2,7 @@
 
 A complete, ready-to-use implementation of a spectrum analyzer using RTL-SDR devices with gr-fosphor waterfall display.
 
-![RTL-SDR Fosphor Spectrum Analyzer](https://raw.githubusercontent.com/e4mwak/RTL-SDR-Fosphor-Spectrum-Analyzer/main/screenshot.png)
+
 
 ## Overview
 
@@ -30,7 +30,7 @@ The application offers:
 
 ### Pre-built Executable (Windows)
 
-For Windows users, a pre-built executable is available in the [Releases](https://github.com/e4mwak/RTL-SDR-Fosphor-Spectrum-Analyzer/releases) section.
+For Windows users, a pre-built executable see below
 
 ### From Source
 
